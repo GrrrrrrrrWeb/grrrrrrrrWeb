@@ -2,6 +2,11 @@
 - Student
 - 20
 
+## Interests
+- Game Development
+- Website Development
+- IoT 
+
 ### Languages
 German, English
 
