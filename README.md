@@ -1,7 +1,7 @@
 # GrrrrrrrrWeb
 - Student
 - 20
-- complete beginner
+- Complete beginner
 
 ## Interests
 - Game Development
