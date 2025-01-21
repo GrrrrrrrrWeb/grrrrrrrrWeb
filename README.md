@@ -3,7 +3,7 @@
 - 20
 - Complete beginner
 
-## Interests
+### Interests
 - Game Development
 - Website Development
 - IoT 
