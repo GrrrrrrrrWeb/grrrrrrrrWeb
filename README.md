@@ -2,7 +2,7 @@
 - Student
 - 20
 - Complete beginner
-- learning System Integrator
+- learning System Integration
 
 ### Interests
 - Game Development
